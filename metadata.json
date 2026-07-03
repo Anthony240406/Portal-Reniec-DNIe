@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma Renovación DNIe RENIEC",
+  "description": "Prototipo funcional de la Plataforma Omnicanal Integrada de Renovación del DNIe para RENIEC, con autenticación, captura biofacial con IA, pasarela de pagos, punto de restauración y selección de sedes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
